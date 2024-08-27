@@ -32,7 +32,7 @@ To run the computational model, ensure you have the following prerequisites:
 Clone the repository.
 
 ```bash
-git clone https://github.com/marcossaade/solar-panel-cleaning.git
+git clone https://github.com/marcossaade/SolarPanelCleaning.git
 ```
 
 ## Usage
